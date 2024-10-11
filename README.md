@@ -1,2 +1,1 @@
-# MAT361
-Probability and Statistics
+# MAT361 Probability and Statistics
